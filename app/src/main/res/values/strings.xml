@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">GerenciadorDeCompras</string>
+    <string name="nome">Nome</string>
+    <string name="hint_nome">Digite o nome</string>
+    <string name="unidade_medida">Unidade de medida</string>
+    <string name="quilograma">Quilograma</string>
+    <string name="litro">Litro</string>
+    <string name="unidade">Unidade</string>
+    <string name="pacote">Pacote</string>
+    <string name="prioridade">Prioridade</string>
+    <string name="urgente">Urgente</string>
+    <string name="opcional">Opcional</string>
+    <string name="favorito">Favorito</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="campos_limpos">Campos limpos</string>
+    <string name="nome_obrigatorio">O nome é obrigatório</string>
+    <string name="prioridade_obrigatoria">A prioridade é obrigatória</string>
+    <string name="unidade_obrigatoria">A unidade é obrigatória</string>
+    <string name="nome_produto">Nome do produto</string>
+    <string name="nao_favorito">Não é favorito</string>
 </resources>
